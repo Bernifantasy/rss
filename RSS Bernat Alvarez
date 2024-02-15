@@ -7,19 +7,19 @@
       
         <item>
           <title>Article 1</title>
-          <link>http://rss.elmundo.es/rss/descarga.htm?data2=13</link>
+          <link href="http://rss.elmundo.es/rss/descarga.htm?data2=13"/>
           <pubDate>Dijous,15 Febrer 2024</pubDate>
         </item>
         
         <item>
           <title>Article 2</title>
-          <link>https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada</link>
+          <link href="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada"/>
           <pubDate>Dijous,15 Febrer 2024</pubDate>
         </item>
         
         <item>
           <title>Article 3</title>
-          <link>https://www.lavanguardia.com/rss/tecnologia.xml</link>
+          <link href=" https://www.lavanguardia.com/rss/tecnologia.xml"/>
           <pubDate>Dijous,15 Febrer 2024</pubDate>
           <enclosure url="../imatge.png" />
         </item>
