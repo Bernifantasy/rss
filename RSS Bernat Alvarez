@@ -7,20 +7,20 @@
       
         <item>
           <title>Article 1</title>
-          <link>https://www.lasexta.com/tecnologia-tecnoxplora/internet/nueva-funcion-google-fake-news_2023020163da4c7cbf44120001a8ccb0.html</link>
-          <description>La nueva función de Google contra las fake news</description>
+          <link>http://rss.elmundo.es/rss/descarga.htm?data2=13</link>
+          <pubDate>Dijous,15 Febrer 2024</pubDate>
         </item>
         
         <item>
           <title>Article 2</title>
-          <link>https://elpais.com/economia/formacion/2023-09-01/la-tecnologia-y-el-pensamiento-critico-esenciales-para-combatir-la-desinformacion-y-las-fake-news.html#</link>
-          <description>La tecnología y el pensamiento crítico, esenciales para combatir la desinformación y las ‘fake news’</description>
+          <link>https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada</link>
+          <pubDate>Dijous,15 Febrer 2024</pubDate>
         </item>
         
         <item>
           <title>Article 3</title>
-          <link>https://www.elmundo.es/papel/futuro/2018/09/12/5b97cc7f22601d761e8b45d0.html</link>
-          <description>El Mundo, Cazadores de 'fake news': así funciona la tecnología que evitará que te manipulen</description>
+          <link>https://www.lavanguardia.com/rss/tecnologia.xml</link>
+          <pubDate>Dijous,15 Febrer 2024</pubDate>
           <enclosure url="../imatge.png" />
         </item>
     </channel>
