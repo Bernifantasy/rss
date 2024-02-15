@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+﻿<rss version="2.0">
     <channel>
     
       <title>RSS Bernat Alvarez Borrell</title>
@@ -7,19 +6,22 @@
       <description>Aquest es el meu canal de noticies</description>
       
         <item>
-          <title>La Sexta, La nueva función de Google contra las fake news</title>
-          <link>https://www.lasexta.com/tecnologia-tecnoxplora/internet/nueva-funcion-google-fake-news_2023020163da4c7cbf44120001a8ccb0.html</link>
+          <title>Article 1</title>
           <description>Hola</description>
+          <link>https://www.lasexta.com/tecnologia-tecnoxplora/internet/nueva-funcion-google-fake-news_2023020163da4c7cbf44120001a8ccb0.html</link>
+          <description>La nueva función de Google contra las fake news</description>
         </item>
         
         <item>
-          <title>El Pais, La tecnología y el pensamiento crítico, esenciales para combatir la desinformación y las ‘fake news </title>
+          <title>Article 2</title>
           <link>https://elpais.com/economia/formacion/2023-09-01/la-tecnologia-y-el-pensamiento-critico-esenciales-para-combatir-la-desinformacion-y-las-fake-news.html#</link>
+          <description>La tecnología y el pensamiento crítico, esenciales para combatir la desinformación y las ‘fake news’</description>
         </item>
         
         <item>
-          <title>El Mundo, Cazadores de 'fake news': así funciona la tecnología que evitará que te manipulen</title>
+          <title>Article 3</title>
           <link>https://www.elmundo.es/papel/futuro/2018/09/12/5b97cc7f22601d761e8b45d0.html</link>
+          <description>El Mundo, Cazadores de 'fake news': así funciona la tecnología que evitará que te manipulen</description>
         </item>
     </channel>
 </rss>
