@@ -21,6 +21,7 @@
           <title>Article 3</title>
           <link>https://www.elmundo.es/papel/futuro/2018/09/12/5b97cc7f22601d761e8b45d0.html</link>
           <description>El Mundo, Cazadores de 'fake news': así funciona la tecnología que evitará que te manipulen</description>
+          <enclosure url="../imatge.png" />
         </item>
     </channel>
 </rss>
